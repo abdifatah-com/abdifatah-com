@@ -4,7 +4,9 @@ for freelance work? do reach, email :)
 📊 this week i spent my time on:
 
 TypeScript   7 hrs 3 mins    ███████████████████████▒░   93.79 %
+
 JSON         16 mins         █████░░░░░░░░░░░░░░░░░░░░   05.64 %
+
 SCSS         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
