@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdifatah</h1>
 <h3 align="center">A passionate Full Stack developer from Hargeisa Somaliland</h3>
 
-<p align="left"> <img src="<img width="1365" height="2048" alt="image" src="https://github.com/user-attachments/assets/a1521fdc-9701-4467-a248-8fd580d49573" />
-" alt="abdifatah-com" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdifatah-com" alt="abdifatah-com" /></a> </p>
 
