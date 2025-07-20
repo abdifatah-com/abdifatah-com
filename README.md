@@ -1,14 +1,11 @@
 <!-- View Count -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdifatah-com&label=Profile%20views&color=0e75b6&style=flat" alt="abdifatah-com" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abdifatah-com&label=Profile%20views&color=0e75b6&style=flat" alt="abdifatah-com" />
+</p>
 
 <!-- Intro -->
 <h1 align="center">Hi 👋, I'm Abdifatah Faisal Yusuf</h1>
 <h3 align="center">A Passionate Digital Marketer, Developer & Content Creator from Somaliland 🇸🇴</h3>
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/abdifatah-com/abdifatah-com/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
 <!-- Typing effect -->
 <p align="center">
@@ -60,37 +57,5 @@
 ---
 
 ### 📍 Featured Repos:
-[Anime State Brand Awareness Project](https://github.com/abdifatah-com/anime-awareness)  
-[Digital Boost Social Media Project](https://github.com/abdifatah-com/digital-boost)  
-
----
-
-### 🐍 Snake Contribution Magic:
-> To activate the snake:
-1. Go to your GitHub repo `abdifatah-com/abdifatah-com`
-2. Create a folder called `.github/workflows`
-3. Inside, create a file named `snake.yml` and paste the following:
-
-```yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        with:
-          github_user_name: abdifatah-com
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+- [Anime State Brand Awareness Project](https://github.com/abdifatah-com/anime-awareness)  
+- [Digital Boost Social Media Project](https://github.com/abdifatah-com/digital-boost)
