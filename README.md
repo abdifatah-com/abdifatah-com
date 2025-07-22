@@ -19,7 +19,7 @@
 - 📈 Helping businesses grow with digital strategy & SEO  
 - 🎨 Love designing, editing, and content creation  
 - 🌱 Currently leveling up in **React, PHP, and Marketing Automation**  
-- ✉️ Reach me at: **abdifatahfaisal9@gmail.com**  
+- ✉️ Reach me at: **abdifatahmarketing@gmail.com**  
 - 💬 Ask me about branding, web design, or social media  
 - ⚡ Fun fact: I once grew 8,000+ followers in 2 months organically 😎
 
