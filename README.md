@@ -49,7 +49,7 @@
 
 ### 🔗 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/abdifatahfaisal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/abdifatah-faisal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
   <a href="https://twitter.com/abdifatahfaisal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
   <a href="https://www.youtube.com/@DigitalBoostSo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" alt="youtube" height="30" width="30" /></a>
 </p>
