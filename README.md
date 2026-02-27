@@ -1,61 +1,37 @@
-<!-- View Count -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abdifatah-com&label=Profile%20views&color=0e75b6&style=flat" alt="abdifatah-com" />
-</p>
+<h1 align="center">Hey 👋Hi 👋, I'm Abdifatah Faisal</h1>
 
-<!-- Intro -->
-<h1 align="center">Hi 👋, I'm Abdifatah Faisal Yusuf</h1>
-<h3 align="center">A Passionate Digital Marketer, Developer & Content Creator from Somaliland 🇸🇴</h3>
+###
 
-<!-- Typing effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Digital+Marketer;Frontend+Developer;Content+Creator;Brand+Strategist" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
----
+###
 
-### 💻 About Me:
-- 🔭 I’m currently building brands at **Digital Boost Agency**  
-- 📈 Helping businesses grow with digital strategy & SEO  
-- 🎨 Love designing, editing, and content creation  
-- 🌱 Currently leveling up in **React, PHP, and Marketing Automation**  
-- ✉️ Reach me at: **abdifatahmarketing@gmail.com**  
-- 💬 Ask me about branding, web design, or social media  
-- ⚡ Fun fact: I once grew 8,000+ followers in 2 months organically 😎
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
----
-
-### 🛠️ Tech Stack:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,figma,github,git,vscode,python,wordpress,linux" />
-</p>
-
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdifatah-com&show_icons=true&theme=radical" alt="Abdifatah's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdifatah-com&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdifatah-com&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🔗 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/abdifatah-faisal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="https://twitter.com/abdifatahfaisal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
-  <a href="https://www.youtube.com/@DigitalBoostSo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" alt="youtube" height="30" width="30" /></a>
-</p>
-
----
-
-### 📍 Featured Repos:
-- [Anime State Brand Awareness Project](https://github.com/abdifatah-com/anime-awareness)  
-- [Digital Boost Social Media Project](https://github.com/abdifatah-com/digital-boost)
+###
